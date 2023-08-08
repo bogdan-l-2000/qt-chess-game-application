@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ChessBishopBlackbBackground.png</file>
+        <file>images/ChessBishopBlackwBackground.png</file>
+        <file>images/ChessBishopWhitebBackground.png</file>
+        <file>images/ChessBishopWhitewBackground.png</file>
+        <file>images/ChessKingBlackbBackground.png</file>
+        <file>images/ChessKingBlackwBackground.png</file>
+        <file>images/ChessKingWhitebBackground.png</file>
+        <file>images/ChessKingWhitewBackground.png</file>
+        <file>images/ChessKnightBlackbBackground.png</file>
+        <file>images/ChessKnightBlackwBackground.png</file>
+        <file>images/ChessKnightWhitebBackground.png</file>
+        <file>images/ChessKnightWhitewBackground.png</file>
+        <file>images/ChessPawnBlackbBackground.png</file>
+        <file>images/ChessPawnBlackwBackground.png</file>
+        <file>images/ChessPawnWhitebBackground.png</file>
+        <file>images/ChessPawnWhitewBackground.png</file>
+        <file>images/ChessQueenBlackbBackground.png</file>
+        <file>images/ChessQueenBlackwBackground.png</file>
+        <file>images/ChessQueenWhitebBackground.png</file>
+        <file>images/ChessQueenWhitewBackground.png</file>
+        <file>images/ChessRookBlackbBackground.png</file>
+        <file>images/ChessRookBlackwBackground.png</file>
+        <file>images/ChessRookWhitebBackground.png</file>
+        <file>images/ChessRookWhitewBackground.png</file>
+    </qresource>
+</RCC>
