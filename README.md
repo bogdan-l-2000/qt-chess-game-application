@@ -2,7 +2,7 @@
 A Chess game created using the QT GUI Module in C++ 
 
 Enabled:
-- Human vs Human game
+- Human vs Human game on one machine
 - Turns
 - Undo move functionality
 - En passant
@@ -14,3 +14,4 @@ Partially Enabled:
 
 Not Enabled:
 - Game vs AI
+- Game over a network
