@@ -12,3 +12,5 @@ Partially Enabled:
 - Promoting: currently automatically promotes Pawn to queen.
 - TODO: enable choice of promotion.
 
+Not Enabled:
+- Game vs AI
